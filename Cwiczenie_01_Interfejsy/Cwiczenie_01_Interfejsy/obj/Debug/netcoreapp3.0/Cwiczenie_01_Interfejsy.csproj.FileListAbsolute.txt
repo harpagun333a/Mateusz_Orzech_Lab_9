@@ -1,0 +1,11 @@
+C:\Users\Mateusz\source\repos\Cwiczenie_01_Interfejsy\Cwiczenie_01_Interfejsy\bin\Debug\netcoreapp3.0\Cwiczenie_01_Interfejsy.exe
+C:\Users\Mateusz\source\repos\Cwiczenie_01_Interfejsy\Cwiczenie_01_Interfejsy\bin\Debug\netcoreapp3.0\Cwiczenie_01_Interfejsy.deps.json
+C:\Users\Mateusz\source\repos\Cwiczenie_01_Interfejsy\Cwiczenie_01_Interfejsy\bin\Debug\netcoreapp3.0\Cwiczenie_01_Interfejsy.runtimeconfig.json
+C:\Users\Mateusz\source\repos\Cwiczenie_01_Interfejsy\Cwiczenie_01_Interfejsy\bin\Debug\netcoreapp3.0\Cwiczenie_01_Interfejsy.runtimeconfig.dev.json
+C:\Users\Mateusz\source\repos\Cwiczenie_01_Interfejsy\Cwiczenie_01_Interfejsy\bin\Debug\netcoreapp3.0\Cwiczenie_01_Interfejsy.dll
+C:\Users\Mateusz\source\repos\Cwiczenie_01_Interfejsy\Cwiczenie_01_Interfejsy\bin\Debug\netcoreapp3.0\Cwiczenie_01_Interfejsy.pdb
+C:\Users\Mateusz\source\repos\Cwiczenie_01_Interfejsy\Cwiczenie_01_Interfejsy\obj\Debug\netcoreapp3.0\Cwiczenie_01_Interfejsy.csprojAssemblyReference.cache
+C:\Users\Mateusz\source\repos\Cwiczenie_01_Interfejsy\Cwiczenie_01_Interfejsy\obj\Debug\netcoreapp3.0\Cwiczenie_01_Interfejsy.AssemblyInfoInputs.cache
+C:\Users\Mateusz\source\repos\Cwiczenie_01_Interfejsy\Cwiczenie_01_Interfejsy\obj\Debug\netcoreapp3.0\Cwiczenie_01_Interfejsy.AssemblyInfo.cs
+C:\Users\Mateusz\source\repos\Cwiczenie_01_Interfejsy\Cwiczenie_01_Interfejsy\obj\Debug\netcoreapp3.0\Cwiczenie_01_Interfejsy.dll
+C:\Users\Mateusz\source\repos\Cwiczenie_01_Interfejsy\Cwiczenie_01_Interfejsy\obj\Debug\netcoreapp3.0\Cwiczenie_01_Interfejsy.pdb

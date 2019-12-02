@@ -1,0 +1,11 @@
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_9\Cwiczenie_03_Delegaty\Cwiczenie_03_Delegaty\bin\Debug\netcoreapp3.0\Cwiczenie_03_Delegaty.exe
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_9\Cwiczenie_03_Delegaty\Cwiczenie_03_Delegaty\bin\Debug\netcoreapp3.0\Cwiczenie_03_Delegaty.deps.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_9\Cwiczenie_03_Delegaty\Cwiczenie_03_Delegaty\bin\Debug\netcoreapp3.0\Cwiczenie_03_Delegaty.runtimeconfig.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_9\Cwiczenie_03_Delegaty\Cwiczenie_03_Delegaty\bin\Debug\netcoreapp3.0\Cwiczenie_03_Delegaty.runtimeconfig.dev.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_9\Cwiczenie_03_Delegaty\Cwiczenie_03_Delegaty\bin\Debug\netcoreapp3.0\Cwiczenie_03_Delegaty.dll
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_9\Cwiczenie_03_Delegaty\Cwiczenie_03_Delegaty\bin\Debug\netcoreapp3.0\Cwiczenie_03_Delegaty.pdb
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_9\Cwiczenie_03_Delegaty\Cwiczenie_03_Delegaty\obj\Debug\netcoreapp3.0\Cwiczenie_03_Delegaty.csprojAssemblyReference.cache
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_9\Cwiczenie_03_Delegaty\Cwiczenie_03_Delegaty\obj\Debug\netcoreapp3.0\Cwiczenie_03_Delegaty.AssemblyInfoInputs.cache
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_9\Cwiczenie_03_Delegaty\Cwiczenie_03_Delegaty\obj\Debug\netcoreapp3.0\Cwiczenie_03_Delegaty.AssemblyInfo.cs
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_9\Cwiczenie_03_Delegaty\Cwiczenie_03_Delegaty\obj\Debug\netcoreapp3.0\Cwiczenie_03_Delegaty.dll
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_9\Cwiczenie_03_Delegaty\Cwiczenie_03_Delegaty\obj\Debug\netcoreapp3.0\Cwiczenie_03_Delegaty.pdb

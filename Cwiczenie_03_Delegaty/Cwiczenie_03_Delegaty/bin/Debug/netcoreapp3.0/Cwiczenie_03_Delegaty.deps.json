@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Cwiczenie_03_Delegaty/1.0.0": {
+        "runtime": {
+          "Cwiczenie_03_Delegaty.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cwiczenie_03_Delegaty/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
